@@ -1,0 +1,20 @@
+@font-face {
+    font-family: oregonfont;
+    src: url("../oregon book.ttf");
+  }
+body{
+    padding:3%;
+}
+header{
+    border: 1em;
+    border-color: black;
+    font-size: larger;
+    text-align: center;
+    text-shadow: 2px 2px 2px crimson;
+}
+
+p.strong{
+    border:1px;
+    border-color: blue;
+    border-style: solid;
+}
